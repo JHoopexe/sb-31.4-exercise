@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head><meta name='robots' content='none' /><base href="https://n297.network-auth.com/JAX-Free-WIFI/hi/3ttvEcPe/" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title> JAX-Free-WIFI</title>
+
+    <link href="main.css" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+
+<body>
+    <div id="main">
+
+        <div id="content">
+            <div class="section-info splash-page">
+                <div class="block top brought-to-you">
+                    <h2>Free Wi-Fi brought to you by:</h2>
+                </div>
+                <a href="#" class="content-image">
+                    <img src="380.jpg" class="mobile-version">
+                     <img src="940.jpg" class="desktop-version">
+                </a>
+                <div class="block terms-conditions">
+                    By clicking "Continue to the internet" you agree to the
+                    <br>
+                    <a href="t_and_c.html" target="_blank">Terms &amp; Conditions of use</a>
+                </div>
+
+                <br>
+                <a class="button btn-continue-to-internet" href="https://n297.network-auth.com/JAX-Free-WIFI/hi/3ttvEcPe/grant?continue_url=http://www.flyjacksonville.com" onclick = "javascript:(function() {
+          var _request = new XMLHttpRequest();
+          var url = 'https://n297.network-auth.com/JAX-Free-WIFI/hi/3ttvEcPe/grant?continue_url=CONTINUE_URL_PLACEHOLDER';
+          _request.open('HEAD', window.location, true);
+          _request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+          _request.onreadystatechange = function() {
+            if (_request.readyState === 4) {
+              var continue_url = _request.getResponseHeader('Continue-Url');
+              window.location.href = url.replace('CONTINUE_URL_PLACEHOLDER', continue_url);
+            };
+          };
+          _request.send(null);
+        })(); return false;" title="Continue to the Internet">Continue to the Internet</a>
+            </div>
+
+            <a href="http://flyjax.com/" target="_blank" class="wifi-logo-wrapper">
+                <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAABTCAMAAADX9wdfAAABOFBMVEUAAAD/
+////////////////////////////////////////////////////////////
+//+/v79AQEBwcHCfn5/Pz8/v7+9QUFAAAAAgICBgYGDf398QEBCPj48wMDCv
+r68AHCYAFRwAN0sAbpYAYIMAPlQADhMAWXoAMEIARV4AZ40ATGcAKTgABwkA
+Ii8AU3GAgIAARF0AXX8AKjoAh7kAf60AVHQAIi6fydgAO1EAdqIATGgAGSOA
+t8sAERcAM0UACAwAICsAFR0AqOcAibwASmUACw6PmJsAdJ8AP1e/4e4AntkA
+aZAANUjf8PYAX4IQOkoAk8ovVmdDe5QUJSw2Y3ZrxexerM88b4UNGR5Avu1X
+oMCf3vYbMTtkud1QlLEoSlkHDA8gNT0hPkpKh6LN2N2s3vRsn7VHxqtmAAAA
+EHRSTlMAQICvz++/n2Aw348gEFBwYRXxvgAACXpJREFUaN7tmnt33DQWwEca
+W36PlTCZOJNJQjctUMojtGnY0m4LFFi6vFs2heW9sLvf/xtwr2zJVxrZGYcw
+yR97T07OjCR7frq6L8kejbzC+DiQtYQiipPRVZV4LF1Js6uIm2chwm1oys3N
+F6Zb+CGIO68R3bdLRC2Z1cqaVsGtn9atoiCtXDcy59ZFBlSz6XZVadYKZWeO
+7GkXrexmZc1t7OlE+u6h1WzWMyKTld47wOqDTnfnCs9iRdzpDMbnF8MaGuOa
+WJoy7a0OhW6yjbAQhnSZtaoWU9BDeRGsk9YRImt0vKREM9Q2ogRmtbeoOlmr
+ah8MNyqWgYayUt+1b2e02JhbkWrntsbB+s82Wy4fa1XtgY8tww5kLWiEsX0g
+D2027rUVUP/WojqLtZrPPLADWWPKOrbHGzhuoVuj4PoDitrFWu17YAey2uHb
+uZlOQTInI0Pq02CrBzZTF6uC/UOsuZ1mYv8FqErzmXo0BAvLAPpYq33Xewey
+llpZXiMYZW3c0o5l6UbImYPaw1rNHVMfyNqs8lgnBMcIWtcvW2prppvV6qzV
+VIbFuVm1CcQ6dLrZkETfWmhoBQvYq4awLnZtKxjEqj290KHLNQLH92y9RHJ3
+MYi12rbXZRBramxQM7lhpU21Sqi9waLMq2Gs1YYVhIaw6lqkbOPsUt4uKaqV
+8UCt1VDWTauWGMKq3TxvLTdYukq0qFZoBY3P+1lfvOZTbHQ+1pTwBS23LUnL
+alW4sZxV/ax/Obx+46WluEVKzwGs2skzutbLxZspcO1bjz1BwGUFefkVG3dG
+bH4Aq4ZIqPqWjCBvvctKWZ7YimGJsF67+SrSHt567fV2wJQYwQDWBiK1DGLJ
+CEjUovY68ZoAJH3Lt964pWgPb77RGkF6DlbLBFpHc4zAygYk/HK5sYw6N6gm
+Drz+2puK9tWbtaftEG2szqoVNrF7bSMwWdaNr0IeLaHukZGk+aVXXla4129c
+UwbLBrPqVGX8UtulZQSZhUryViC3XVM9kDbrW7fv6L5rN64fNp620YYTuczG
+vKw6+od6H61ZqREk0hFTDyy51s6WdFmPj++evK37X2w87a+9rLmXdfmQRFq+
+1qx0MyETuJhh3bEz0ky6rPeOUd65/0CPUZ72tza+e1j195Ky5rJT2ixoEmxp
+6oLAsDoxXi6xVg/vv6NwD+89NJ52q59V/zanrGU3q1lnCmjGcx/rVPpYQR6c
+3K1xH73btBz1sjIfa9DNaozAmAkjFzRB1jqt2JJdrCB3ThTt8e1HK7BqZ9HG
+l/WbgFkIut0i30TDamrX/V3PPaD9vfebAe8+uq1o757c6WLVUanZ3xs8TnSc
+ciI6ltZGYEJro0mj5diOA9sz6Wc9efzBhx81gx7eO2w87e8klhAvNvs5COHF
+xER1RrqsLKVtMrVMRluoKQxUkE0165F/bRQryMdPDO5bytP+4Y1ZbiDXP0Xj
+phX4jeYTOsQcCRn4aGTy1mIqO1nvfIywjz/59DNtLQ/u3z3+vE1+lDUPfXfh
+ZBZOVUWNwNTY5tYFXZlMHWLsbMlu1qr66MkHNe4X72ncL0lMpKzewKROanw5
+ikwh9R0TkjpG9e/SssrPCvL+h18p3K9Oak/bJsW2xUrqZAvV/Khzmm/WnbV7
+QjrE6JqjvezPpTyTFePBFzWu8rQ9UqzZrOrEmcq4oFNIR47o0ZGZZOadi8R4
+uyX7WZ8++1rjfvbpJ49rT9slZxAOq37m0JAyGylzWTWiucY+KGm9tTfxNaz/
+PD19/s23GveJ8rR/0W29y4raKHkmxpwzz9Hy+SVfhRXku6caFz3te1qvy3P/
++FDxFWq7e4S1+uHZjwr3p59/aXD/bR28rI+VuaCz6ebSWcavvyna099+bWoc
+6iLrY6WnHCAH/mdG1S8//6Rof3z2Ax7B0lOmNbKSTcPWC7qS8cSs6tun3ync
+5/+xT5nWyKqjwu4e2SL4WBH3m+enp/91Avo6WTHpKiOtzmQF+fp/zinTWlnR
+CpxHGz2si5n7bNRhzTnr/e4Kj5u/1QSqhqMVWWHz4CQWl5U5ane/uwJTr/9W
+lMyF7WJFVPddAg9rEfMYZpSXPFffE5ZDEwaPhJfQwZIYexL8BP8b1gmfrAIL
+WXm6Auu+B9XHGsgUQjA+4pUT+B5DrRWoYgD9GO6g8n4ehlB+ZUavmJWCFWE3
+Fmexwj5nGdXDmogSwjYL5CSRgskAUBnUW5nI4VMCs5AhiyTPJMtkolkBG6qT
+lcwWbHa23cu6wEfHnpdJKCssKOpV7flYrSVWV1cB7gqV7QqJcDglmaWpsVfu
+r8O8ksD9D3a6Wee7uhbtYYVfnUheynHCgRWLeeALUqikJ2WWyhJZUs06SlP4
+3rJmbEWLhTiLpeR0x8+Kr5GE/htR1kBmgSy5HJehhGUeZ1DASsBNGRiDkEkY
+xmPY6DWsGWYVzZrLkAer2YBaLqwNNuYLl3XnCM8Oso5ilLLi4kRFIWQYCYaT
+F0Ui4lEmYh7iax1JoN6XENkIm3MBpSV8rv9gix6uZgK1xKqS2ThqWffne+qQ
+I8q7rpED7n+xkkSebXNQ9hT4l8c6wtfeBOENojjvHX6prDVwLSu88Hb5rKsL
+ZU3MK259JQv2Cf8UY/Gnvg5If5SZGqSvZFHxyl+scNlflV0wq4jGQpUEkDOF
+4BChoijLBBeQSZIxtEDgSmNk5ao7E5mI6q543azgjqGMIyniUooIIz/ETYi4
+KXxMQ8wVkUoMkAqEwLlJlb9CTAXJulkDzLN1ucWggCmw4hUyLzBbxZC3VB9W
+BSkWB4mQRa66Sqh31s2qEijy1EFP2TC6EiQx0KHQrKod2JquALsujxXWdFTy
+omVlYAYx0avSd91Vqur2clgTMNIJ1IFNzV8DQX0CSRxYQ0jmoNM0AHg9Deya
+rJE1r7d5GEBhGzNikYDsjPu+mKtdIIsi3MuUnGHDJBq3XZMxdDHG8/NyDGW9
+6vJ/1nWwFgydY5Wa5/JZS/UEq/NooqNkuRzWQD0WUnotclSzam30XORXiTWX
+Y9xqY1QNJQTQEE8U8FADduvN84s/NYAOYeUSEn6uWGEPLXH/nRZhOClVyziG
+EuFCn3f8EdZUFiUYQV3CqOpkLGM8FYAKBVuukA3Uh+SBPk1DughYzWnLVWLN
+ZIQvBeSaVZaTMAQbyPEQpmadXBUbSPEZHdeHf7U3xeqxZ6hOWPAp+2X6FhWV
+CAp1qIphCiorlo+sBFFcqm/1yOqn1WfL77piprKpak+NAAAAAElFTkSuQmCC
+' />
+
+                
+            </a>
+        </div>
+
+        <div id="footer_cont">
+            <div id="footer">
+
+                Book your flight now at <a href="http://flyjax.com" target="_blank">FlyJax.com</a> <br>
+                find out about our <a href="#" target="_blank">Frequent Parker Program</a>
+
+                <div class="powered-by">
+                    <h3>POWERED BY</h3>
+                    <img alt="Cisco Meraki" src="/images/cisco-meraki-gray.png" width="100" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+          <script type="text/javascript" charset="utf-8">
+        
+              function update_form_action_from_headers(form) {
+        var _request = new XMLHttpRequest();
+        var url = 'https://n297.network-auth.com/JAX-Free-WIFI/hi/3ttvEcPe/login?continue_url=CONTINUE_URL_PLACEHOLDER';
+        _request.open('HEAD', window.location, true);
+        _request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        _request.onreadystatechange = function() {
+          if (_request.readyState === 4) {
+            var continue_url = _request.getResponseHeader('Continue-Url');
+            form.action = url.replace('CONTINUE_URL_PLACEHOLDER', continue_url);
+            form.submit();
+          }
+        }
+        _request.send(null);
+        return false;
+      }
+
+        
+      </script>
+
+</body>
+</html>
